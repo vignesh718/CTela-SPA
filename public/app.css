@@ -1,0 +1,104 @@
+body{
+	margin: 0 auto; 
+	background: #c8d7de;	
+}
+.same{
+	width: 960px;
+	margin: 0 auto;
+}
+.logo{
+	width: 185px;
+	height: 76px;
+}
+/*-----------*/
+.header{
+	padding: 20px 0;
+	margin: 0 auto; 
+	width: 1100px;
+	background: white;
+}
+.footer{
+	margin: 0 auto;
+	padding-top: 30px;
+	width: 1100px;
+	height:80px;
+	background: black;
+	text-align: center;
+}
+/*-----------*/
+hr{
+	border: 1px solid green;
+}
+/*-----------*/
+.head .container .navbar-nav{
+	padding-top: 20px; 
+}
+.head .container{
+	padding: 0 60px;
+	width: 1100px;
+	height: 111px;
+	background: white;
+	border-bottom: 1px solid green;
+	box-shadow:0 2px black; 
+}
+/*-----------*/
+.img1{
+	height: 305px;
+	width: 960px;
+
+}
+/*-----------*/
+.one{
+	margin: 20px 0;
+}
+/*-----------*/
+.two{
+	width: 960px;
+
+}
+.two .col-sm-3{
+	width: 220px;
+}
+.two .col-sm-3 img{
+	width: 210px;
+	height:140px;
+}
+.two .col-sm-3 p{
+	height: 120px;
+}
+/*-----------*/
+.three{
+	width: 960px;
+	padding-bottom: 30px;
+
+}
+.three .col-sm-3{
+	width: 220px;
+}
+.three .col-sm-3 img{
+	width: 210px;
+	height:140px;
+}
+.three .col-sm-3 p{
+	height: 220px;
+}
+/*-----------*/
+
+/*----------------------------------------------------------------------------*/
+
+.pimg{
+	width: 280px;
+	height: 240px;
+}
+.pro .container{
+	width: 1100px;
+	background: white;
+}
+.ProHead{
+	width: 960px;
+	margin: 0 auto;
+	background: white;
+}
+.Pone .p1{
+	height: 230px;
+}
